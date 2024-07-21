@@ -1,0 +1,26 @@
+.calcpart{
+    width: 400px;
+    height:400px;
+    margin-left: 400px;
+    background-color: black;
+
+}
+.ans{
+   height:100px;
+   width:300px;
+   
+    
+}
+#screen{
+    width:300px;
+    height:40px;
+    margin-top: 40px;
+    margin-left:45px;
+    pointer-events: none;
+}
+.btn{
+    width:50px;
+    height:40px;
+    margin-left: 36px; 
+    margin-top: 2px;
+}
